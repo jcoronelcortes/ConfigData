@@ -1,0 +1,5 @@
+
+---
+spring:
+  profiles: subject
+words: I,You,He,She,It
